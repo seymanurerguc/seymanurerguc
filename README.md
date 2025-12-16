@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Şeymanur Ergüç
 
-<!--
-**seymanurerguc/seymanurerguc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Statistics Graduate  
+📊 Data Analysis & Artificial Intelligence Student  
+🌱 Currently improving my skills in data analysis, visualization and basic machine learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- SQL (basic)
+- Git & GitHub
+- Google Colab
+
+---
+
+## 📌 Featured Projects
+- 📊 **Student Performance Analysis**  
+  Data cleaning, exploratory data analysis and visualization using Python  
+- 🤖 **Data Analysis School – AI Projects**  
+  Projects developed during artificial intelligence training
+
+---
+
+## 🎯 Interests
+- Data Analysis
+- Educational Data
+- Machine Learning (beginner level)
+- Data Visualization
+
+---
+
+## 🌍 Connect with Me
+- GitHub: https://github.com/seymanurerguc
+
